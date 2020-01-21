@@ -1,5 +1,5 @@
-# reading-notes
-Code 201 Reading Notes
+### Reading Notes for 201!!
+<color: blue> Code 201 Reading Notes
 
 This page will house the notes that I take from the 201 assignments.
 
