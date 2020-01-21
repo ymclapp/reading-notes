@@ -3,7 +3,7 @@
 
 This page will house the notes that I take from the 201 assignments.
     <ul>
-        <li>[Daily Reading Assignment #1](/RL1)</li>
+        <li><a href="/RL1">Daily Reading Assignment #1</a></li>
         <li>[Daily Reading Assignment #2](/RL2)</li>
         <li>[Daily Reading Assignment #3](/RL3)</li>
         <li>[Daily Reading Assignment #4](/RL4)</li>
