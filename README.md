@@ -1,5 +1,4 @@
-### Reading Notes for 201!!
-Code 201 Reading Notes
+## Reading Notes for 201!!
 
 John Woods said:
 >Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live
