@@ -4,6 +4,7 @@ John Woods said:
 >Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live
 
 *This page will house the notes that I take from the 201 assignments.*
+<p>
     <ul>
         <li><a href="RL1.md">Daily Reading Assignment #1</a></li>
         <li><a href="RL2.md">Daily Reading Assignment #2</a></li>
@@ -21,3 +22,4 @@ John Woods said:
         <li><a href="RL14.md">Daily Reading Assignment #14</a></li>
         <li><a href="RL15.md">Daily Reading Assignment #15</a></li>
     </ul>
+</p>
