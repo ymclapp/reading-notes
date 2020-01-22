@@ -3,15 +3,19 @@
     <head>
         <title>This is our Lab01b info</title>
         <link rel="stylesheet" href="css/c01.css"/>
-      
+        <style>
+            h1 {background-color: powderblue;color:red;}
+            p {color:blue;}
+        </style>
     </head>
     <body>
-        <h1>This is the title</h1>
-        <p>This the section that you would put the text content into.</p>   
+        <h1>Class 1 Lab</h1>
+        <p>These are the questions you will be asked:</p>   
         <ul>
-            <li> Item #1</li>
-            <li> Item #2</li>
-            <li> Item #3</li>
+            <li style="color:blue; background-color:red;"> What is your name?</li>
+            <li style="color:red; background-color:blue;"> What is your dog's name?</li>
+            <li style="color:black; background-color:purple;"> What was your favorite class in high school?</li>
+            <li style="color:purple; background-color:pink;"> What is your favorite pizza topping?</li>
         </ul> 
         <main>
         </main>
@@ -22,9 +26,18 @@
 
     </footer>
     <script>
-    var user = prompt("What is your name?"); 
-    var dog = prompt("What is your dog's namne?");
-    console.log ("Hello ." + user + "Your dog\'s name " + dog + " is funny!");
+        var user = prompt("What is your name?"); 
+            console.log(user);
+        var dog = prompt("What is your dog's name?");
+            console.log (dog);
+        console.log ("Hello ." + user + "Your dog\'s name " + dog + " is funny!");
+    
+        var class = prompt("What was your favorite class in high school?");
+            console.log (class);  
+        var pizzatop = prompt("What is your favorite pizza topping?");
+            console.log (pizzatop);  
+        alert (user + " your dog, " + dog + " loves " + class + " too!  " + dog + " just ate your " + pizzatop + " pizza!");
+    
     </script>
     </body> 
 </html>

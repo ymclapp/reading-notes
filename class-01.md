@@ -1,9 +1,9 @@
 ## HTML
 
-- Introduction (pp.2-11)
+- ### Introduction (pp.2-11)
     - The introduction was essentially an overview of the book how it would handle HTML  and CSS as you go and then how the web works to know how coding fits in
 
-- Structure (pp.12-39)
+- ### Structure (pp.12-39)
     - How web pages are structured
     - Word is similarly able to be structured as a web page
     - HTML uses code to provide the affects:
@@ -16,7 +16,37 @@
                 - Name and value example - lang="en-us"
         - Body - Everything inside this element is shown inside the main browser window
         - Head - You may see this and it will be before body.  This contains information about the page vs shown on the page.  Often has title inside the head element.
-        - Title - The contents are either shown in the top of the broser, above where you usually type in the URL of he page you want to visit, or on the tab foe that page if your browser uses tabs
-- Extra Markup (p.176-199)
-- HTML5 Layout (pp.428-451)
-- Process & Design (pp.452-475)
+        - Title - The contents are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page if your browser uses tabs
+
+- ### Extra Markup (p.176-199)
+    - Every web page should begin with the document type so that other browsers know which version is running.  (!doctype html) (used parenthesis instead of brackets for documenting's sake)
+    -  To make comments/comment out an area,(!-- --) - comments go between the - signs in the brackets (used parenthesis instead of brackets for documenting's sake)
+    - ID Attribute - a global attribute because it can be used on any element - it is used to uniquely identify that element from other elements on the page
+    - Class Attribute - used to uniquely identify several elements on the same page
+    - Block Elements - examples are h1, p, ul, and li
+    - Inline Elements - examples are a, b, em, and img
+    - Grouping Text and Elements in a Block - use div
+    - Gruoping Text and Elements inline - use span
+    - Iframes - is like a little window that has been cut into your page.  Attributes that you will need to use with it are src, height, and width.  Older HTML versions support attributes such as scrolling and frameborder.  Seamless is a new HTML 5 attribute.
+    - Information About Your Pages:
+        - meta - lives inside the head element and contains infor about that web pages.  Does not have a closing tag.  Most common attributes are name and content.  Ex.  meta name="...." [next line] content="...."/>
+        -  Addtional attributes are:
+            - description - description of page
+            - keywords - list of comma-separated words that a user might searh on to find the page
+            - robots - indicates whether search engines should add this page to their search results or not
+                - noindex = should not be added
+                - nofollow = should be added but not any pages that it links to
+            - author - defines the author of the page
+            - pragma - prevent page caching
+            - expires - can be used to specify when the page should expire from being cached
+    - Escape Characters - you have to use alternate text to get them to show up in your browser.  Make sure to check that they show up like you are wanting
+
+- ### HTML5 Layout (pp.428-451)
+    - Traditional HTML layout required a lot of divs to create the sections (ex. div article).  Now, the sections can be worked without the divs (ex. article).
+    - Headers and Footers - each section can have it's own header and footer
+    - Navigation - nav is used to contain the major navigational blocks
+    - article - acts as a ctonainer for any section of a page that could stand alone and potentially be syndicated
+    - aside - has two purposes, depending on whether it is inside an article element or not
+        - Used inside an article element - it should contain info related to the article but not essetial to is overall meaning.
+        - Used outside of article element - acts as container for content that is related to the entire page
+- ### Process & Design (pp.452-475)
