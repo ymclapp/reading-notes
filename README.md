@@ -1,6 +1,6 @@
 ## Reading Notes for 201!!
 
-John Woods said:
+**John Woods** said:
 >Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live
 
 *This page will house the notes that I take from the 201 assignments.*
@@ -20,9 +20,3 @@ John Woods said:
 - [Daily Reading Assignment #13](RL13.md)
 - [Daily Reading Assignment #14](RL14.md)
 - [Daily Reading Assignment #15](RL15.md)
-
-I 
-
-:heart:
-
-reading!
