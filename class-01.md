@@ -49,4 +49,51 @@
     - aside - has two purposes, depending on whether it is inside an article element or not
         - Used inside an article element - it should contain info related to the article but not essetial to is overall meaning.
         - Used outside of article element - acts as container for content that is related to the entire page
+    - section - groups related content together and typically each section would have its own heading. Has a closing.  Also, if you have a long article and you need to split it up, section can do that.
+    - hgroup - groups together a set of h1 through h6 elements that is being treated as one single heading
+    - figure - used to contain any content that is referenced from the main flow of an article (not just images)
+        - Examples of usage:  images, videos, graphs, diagrams, code samples, and text that supports the main body of an article    
+        - figcaption - also contained in a figure and provides a text description for the content of the figure
+    - Linking around block-level elements
+        - a - a href and needs closing - makes the whole block into a link
+        
 - ### Process & Design (pp.452-475)
+    - Who is the target audience?
+        - Individuals
+        - Companies
+    - Why are people coming to the website?
+        - What are the key motivations?
+        - What are their specific goals?
+        - What are they trying to achieve?
+    - What information do your visitors need?
+    - How often will people visit your site?
+    - Designing your site
+        - Site Maps - how your site will be organized
+        - Wireframe - drawing out your site design
+        - Getting your message across
+            - Content of page
+            - Prioritizing what design elements to emphasize key info
+            - Organizing through grouping in blocks or chunks, like items
+            - Visual hierarchy draws the eye to a key aspect
+                - Size - headings and key points relatively large
+                - Color - foreground and background color to draw attention to key messages
+                - Style - to make elements stand out
+                - Images - create high visual contract
+            - Grouping
+                - Prosimity grouping
+                - Closure grouping
+                - Continuance grouping
+                - White space promoting
+                - Color - background
+                - Borders - around whole element
+            - Similarity of items grouped together
+                - Consistency - ex. book reviews use same font and color scheme
+                - Headings demonstrate similarity
+            - Navigation
+                - Concise
+                - Clear
+                - Selective
+                - Context
+                - Interactive
+                - Consistent
+                
