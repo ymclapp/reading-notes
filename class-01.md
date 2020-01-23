@@ -45,7 +45,7 @@
     - Traditional HTML layout required a lot of divs to create the sections (ex. div article).  Now, the sections can be worked without the divs (ex. article).
     - Headers and Footers - each section can have it's own header and footer
     - Navigation - nav is used to contain the major navigational blocks
-    - article - acts as a ctonainer for any section of a page that could stand alone and potentially be syndicated
+    - article - acts as a container for any section of a page that could stand alone and potentially be syndicated
     - aside - has two purposes, depending on whether it is inside an article element or not
         - Used inside an article element - it should contain info related to the article but not essetial to is overall meaning.
         - Used outside of article element - acts as container for content that is related to the entire page
@@ -96,4 +96,43 @@
                 - Context
                 - Interactive
                 - Consistent
-                
+## Javascript
+
+- ### The ABC of Programming (pp, 11-52)
+    - Start with the big picture of what you want to achieve, and break that down into smaller steps
+        1.  Define the goal - what do you want to achieve?
+        2.  Design the script - split the goal into a series of tasks
+            - Sketching out the tasks in a flow chart
+        3.  Code each step
+    - From steps to code
+        - Vocabulary - the words that computers understand
+        - Sytax - how you put those words together to create instructions computers can follow
+        - Objects (things) - each physical thing in the world is an object and are in instances
+        - Properties (characteristics) - each property has a name and a value and the pair tells you somthint about each individual instance of the object
+        - Event - computer saying "hey this just happened".  Can be used to trigger different types of functionality
+        - Methods - represent how people (or other things) interact with an object in the real world.  Can contain lots of instructions that together represent one task
+            - Tell you something about the object
+            - Change the value of one or moe of that object's properties
+        - Objects
+            - document
+            - window
+##  Javascript, CSS, and HTML Working Together
+
+HTML - the content layer
+CSS - the presentation layer
+Javascript - the behavior layer
+
+### Objects and Methods
+
+Document - the document object represents the entire web page.  All web browsers implement this obhject, and you can use it just by giving its name.
+
+Write - the write() method of the document object allows new content to be written into the page where the -script- element sits.
+
+- Ex.document.write('Good afternoon!')
+- Document = document
+- Method = write('Good afternoon!')
+- Period(.) = Member Operator
+- 'Good afternoon"' = Parameter.  Tells write what to write.
+
+Javscript will run wherever HTML finds it in the coding
+
