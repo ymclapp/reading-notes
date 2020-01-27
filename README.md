@@ -5,8 +5,8 @@
 
 *This page will house the notes that I take from the 201 assignments.*
 
-- [Daily Reading Assignment #1](RL1.md)
-- [Daily Reading Assignment #2](RL2.md)
+- [Read 01](class-01.md)
+- [Read 02](class-02.md)
 - [Daily Reading Assignment #3](RL3.md)
 - [Daily Reading Assignment #4](RL4.md)
 - [Daily Reading Assignment #5](RL5.md)
