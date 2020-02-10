@@ -1,0 +1,16 @@
+- -div- elements are often used as containing elements to group together sections of a page.
+    - Containers or parent elements are the outer box of block-level elements that sit inside
+- Browsers display pages in normal flow unless you specify relative, absolute, or fixed positioning.
+    - Normal - The paragraphs appear one after the other, vertically down the page.
+    - Relative - This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed. 
+    - Absolute - Absolutely positioned elements move as users scroll up and down the pag
+    - Fixed - This is a form of absolute positioning that positions the element in relation to the browser window, as opposed to the containing element. 
+    - Floating - Floating an element allows you to take that element out of normal flow and position it to the far left or right of a containing box. The floated element becomes a block-level element around which other content can flow.
+- The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width.)
+- Pages can be fixed width or liquid (stretchy) layouts.
+    - Fixed - Do not change size as the user increases or decreases the size of their browser window - uses pixels
+    - Liqued - Stretch and contract as the user increases or decreases the size of their browser window - uses percentages
+- Designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
+- Grids help create professional and flexible designs. 
+- CSS Frameworks provide rules for common tasks. 
+- You can include multiple CSS files in one page. 
