@@ -12,7 +12,7 @@
 - [Daily Reading Assignment #5](RL5.md)
 - [Daily Reading Assignment #6](RL6.md)
 - [Daily Reading Assignment #7](RL7.md)
-- [Daily Reading Assignment #8](RL8.md)
+- [Read 08](class-08.md)
 - [Daily Reading Assignment #9](RL9.md)
 - [Daily Reading Assignment #10](RL10.md)
 - [Daily Reading Assignment #11](RL11.md)
