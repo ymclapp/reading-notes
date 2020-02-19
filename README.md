@@ -9,7 +9,7 @@
 - [Read 02](class-02.md)
 - [Daily Reading Assignment #3](RL3.md)
 - [Daily Reading Assignment #4](RL4.md)
-- [Daily Reading Assignment #5](RL5.md)
+- [Read 05](class-05.md)
 - [Read 06](class-06.md)
 - [Read 07](class-07.md)
 - [Read 08](class-08.md)
