@@ -14,7 +14,7 @@
 - [Read 07](class-07.md)
 - [Read 08](class-08.md)
 - [Daily Reading Assignment #9](RL9.md)
-- [Daily Reading Assignment #10](RL10.md)
+- [Read 10](class-10.md)
 - [Daily Reading Assignment #11](RL11.md)
 - [Daily Reading Assignment #12](RL12.md)
 - [Daily Reading Assignment #13](RL13.md)
