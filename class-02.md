@@ -56,4 +56,24 @@ A script is a series of instructions that a computer can follow one-by-one.  Eac
     - 
 
 - ### Decisions and Loops  (pp.145-162)
-    - []
+    - Conditional statements allow your code to make decisions about what to do next. 
+        - There are two components to a decision:
+            1. An expression is evaluated, which returns a value
+            2. A conditional statement says what to do in a given situtaion
+    - Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands. 
+        - == is equal to
+        - === strict equal to
+        - != is not equal to
+        - !== strict not equal to
+        - || is or
+        - < less than
+        - > greater than
+        - <= less than or equal to
+        - > greater than or equal to
+    - Logical operators allow you to combine more than one set of comparison operators. 
+        - && is and
+        - || is or
+        - ! is Not
+    - if ... else statements allow you to run one set of code if a condition is true, and another if it is false. 
+        - If statements evaluates a condition.  If the condition evaluates to true, any statements in the subsquent code block are executed.
+        - if else statement checks a condition.  If it resolves to true the first code block i exeuted.  If the condtion resoves to fals the second code block is run instead.
