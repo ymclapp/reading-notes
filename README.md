@@ -17,6 +17,6 @@
 - [Read 10](class-10.md)
 - [Read 11](class-11.md)
 - [Read 12](class-12.md)
-- [Daily Reading Assignment #13](RL12.md)
+- [Read 13](class-13.md)
 - [Daily Reading Assignment #14](RL14.md)
 - [Daily Reading Assignment #15](RL15.md)
